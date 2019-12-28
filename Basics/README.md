@@ -81,3 +81,9 @@ print(spam)
 
     69
     34.5
+
+### Running Python Programs Outside IDLE
+
+- All programs should start with a 'shebang' line
+  - for Mac (OS X), "#! /usr/bin/env python3"
+  - tells the OS where to locate the Python interpreter

@@ -85,6 +85,8 @@ for i in range(2, 7): # start at 2, end before 7
     5
     6
 
+NOTE: List methods also work on strings
+
 ### Index method
 
 ```python
